@@ -3,8 +3,9 @@
 Este documento reúne comentários e reflexões sobre os primeiros trechos do livro *Software Engineering at Google*, destacando as diferenças entre **programar** e **fazer engenharia de software**, além de exemplos práticos de **trade-offs**.
 
 ---
+## Exercício 1
 
-## Trecho 1 — Programar x Engenharia de Software
+### Trecho 1 — Programar x Engenharia de Software
 
 O texto aborda a diferença entre **programar** e **fazer engenharia de software**, conceitos que muitas vezes são confundidos e usados como sinônimos.  
 
@@ -14,8 +15,9 @@ O texto aborda a diferença entre **programar** e **fazer engenharia de software
 O autor compara com outras engenharias (civil, mecânica, aeronáutica), ressaltando que engenheiros seguem **processos rigorosos e normas claras**.
 
 ---
+## Exercício 2
 
-## Trecho 2 — Programming Integrated Over Time
+### Trecho 2 — Programming Integrated Over Time
 
 O autor reforça que engenharia de software não é apenas escrever código, mas sim **cuidar do software ao longo do tempo**. O valor do código não está apenas em sua criação, mas em sua **manutenção e utilidade contínua**.  
 
@@ -38,8 +40,9 @@ O autor ressalta que não existem respostas absolutas: a engenharia de software 
   → Ambos refletem **trade-offs** feitos em suas origens que impactam sua evolução até hoje.  
 
 ---
+## Exercício 3
 
-## Trade-offs
+### Trade-offs
 
 **Definição**: trade-off é quando você abre mão de algo para ganhar outra coisa.  
 Não dá pra ter tudo ao mesmo tempo, então é preciso escolher o que é mais importante.  
@@ -53,5 +56,20 @@ Não dá pra ter tudo ao mesmo tempo, então é preciso escolher o que é mais i
 - **Velocidade de entrega x Manutenibilidade**: lançar rápido pode gerar dívida técnica.  
 - **Complexidade x Flexibilidade**: arquiteturas muito robustas dão poder, mas aumentam custo de manutenção.  
 - **Usuários leigos x Usuários avançados**: interfaces simples vs. sistemas altamente configuráveis (Windows x Linux).  
+
+---
+## Exercício 4
+
+### Diagrama de Classes UML
+<img width="1083" height="376" alt="Captura de tela 2025-09-05 140501" src="https://github.com/user-attachments/assets/ac244b07-c6bd-4b19-be41-a672f9ce29d4" />
+---
+## Exercício 5
+
+### Implementação em Java
+
+---
+## Exercício 6
+
+### Teste Automatizado em Java
 
 ---
