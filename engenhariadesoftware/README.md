@@ -61,15 +61,50 @@ Não dá pra ter tudo ao mesmo tempo, então é preciso escolher o que é mais i
 ## Exercício 4
 
 ### Diagrama de Classes UML
-<img width="1083" height="376" alt="Captura de tela 2025-09-05 140501" src="https://github.com/user-attachments/assets/ac244b07-c6bd-4b19-be41-a672f9ce29d4" />
+<img width="464" height="302" alt="diagramaloja" src="https://github.com/user-attachments/assets/87739321-c526-48b3-b20a-e24d755a1fde" />
+
 ---
 ## Exercício 5
 
 ### Implementação em Java
 
+**Classe Loja:**
+<img width="1118" height="632" alt="loja" src="https://github.com/user-attachments/assets/74f16705-5dc8-423c-8452-df5faebf706b" />
+
+**Classe Produto:**
+<img width="1119" height="304" alt="produto" src="https://github.com/user-attachments/assets/4e74317b-1ae7-4570-8d88-5c79e301d42c" />
+
+**Classe Cliente:**
+<img width="1116" height="294" alt="cliente" src="https://github.com/user-attachments/assets/05a31962-1a62-4647-92f5-7d8423e2dd5b" />
+
 ---
 ## Exercício 6
 
 ### Teste Automatizado em Java
+<img width="738" height="372" alt="testeloja" src="https://github.com/user-attachments/assets/a0f0007a-b6e0-4f17-9fdd-9153ffc7d319" />
 
 ---
+## Exercício 7
+
+### Diagrama de Classes UML
+<img width="410" height="381" alt="diagramapet" src="https://github.com/user-attachments/assets/60acb440-fefb-46a8-b3c2-7f39222b8c8b" />
+
+---
+## Exercício 8
+
+### Implementação em Java
+
+**Classe PetShop:**
+<img width="1117" height="363" alt="petshop" src="https://github.com/user-attachments/assets/47a35f5e-1cc3-45aa-954d-a133c2173324" />
+
+**Classe Animal:**
+<img width="1116" height="392" alt="animal" src="https://github.com/user-attachments/assets/d3eac8bc-e264-4673-bec3-9e6fa77f7a37" />
+
+**Classe Dono:**
+<img width="1116" height="300" alt="dono" src="https://github.com/user-attachments/assets/2d3ead71-b2e8-4b21-adcc-14793af95839" />
+
+---
+## Exercício 9
+
+### Teste Automatizado em Java
+<img width="767" height="382" alt="testepet" src="https://github.com/user-attachments/assets/6976408e-5831-4420-8101-99ed4b7ba42e" />
